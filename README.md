@@ -2,7 +2,12 @@
 
 Dashboard criado para fazer a análise dos dados de vendas de um ecommerce fictício de calçados e acessórios, com base em um arquivo xlsx de Excel, para apoio a tomada de decisão.
 
-Análises:
+![Dashboard](dashboard.png)
+
+
+
+
+# Análises:
 
 - Gráfico de linha analisando a evolução de vendas ao longo do ano
 
@@ -22,7 +27,7 @@ Análises:
 
 - Painel que resume o ecommerce, visualizando o faturamento total, quantidade de vendas do ano, quantidade de clientes, quantidade de pedidos
 
-  ![Painel visão geral]()
+  ![Painel visão geral](painel_visão_geral.png)
 
 
   
